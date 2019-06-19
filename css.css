@@ -1,0 +1,40 @@
+h1 {
+  margin-left: 200px;
+}
+body {
+  width: 600px;
+  margin: 2em auto auto auto;
+  background-color: white;
+  padding: 0 50px 20px 20px;
+}
+#dadospessoais {
+  text-align: left;
+  margin-left: 400px;
+  background-color: red; 
+}
+
+div { display: inline-block;
+	  font-size: 20px;
+	  text-align: right;
+	  margin: 0 0 0 40px;
+	  padding: 20px 0;
+}
+img[src] {
+  width: 200px;
+  margin: 0 200 0 200;
+  border-radius: 150px;
+}
+html {
+  font-size: 15px; 
+  font-family: 'Open Sans', sans-serif;
+  color: #080028;
+  background-color: white;
+}
+p, li {
+  font-size: 16px;    
+  line-height: 1;
+  letter-spacing: 1px;
+}
+.subtitulo {
+	font-size: 20px;
+}
